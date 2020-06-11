@@ -1,0 +1,1 @@
+This projects main task is to replicate the look of the google homepage using only html and css
