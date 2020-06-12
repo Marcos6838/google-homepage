@@ -7,6 +7,7 @@
 }
 
 .search-bar{
+    
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
     display: block;
@@ -16,3 +17,24 @@
     height: 37px;
     width: 500px;
 }
+
+.search-buttons{
+    padding-top: 30px;
+    text-align: center;
+}
+
+.google-search{
+    padding: 10px 20px 10px 20px;
+    margin-right: 10px;
+    background-color: #f2f2f2;
+    border-radius: 4px;
+    
+}
+
+.feeling-lucky{
+    padding: 10px 20px 10px 20px;
+    margin-left: 10px;
+    background-color: #f2f2f2;
+    border-radius: 4px;
+}
+
