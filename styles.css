@@ -1,4 +1,4 @@
-.main-logo{
+#main-logo{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -23,7 +23,7 @@
     text-align: center;
 }
 
-.google-search{
+#google-search{
     padding: 10px 20px 10px 20px;
     margin-right: 10px;
     background-color: #f2f2f2;
@@ -31,10 +31,41 @@
     
 }
 
-.feeling-lucky{
+#feeling-lucky{
     padding: 10px 20px 10px 20px;
     margin-left: 10px;
     background-color: #f2f2f2;
     border-radius: 4px;
 }
 
+.nav-bar{
+    list-style-type: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: small;
+    
+}
+
+#about{
+    display: inline;
+    margin-right: 5px;
+    margin-left
+    
+
+}
+
+#store{
+    display: inline;
+    padding-right: 90%;
+}
+
+#gmail{
+    display: inline;
+    
+}
+
+#images{
+    display: inline;
+    margin-right: 5px;
+    
+}
